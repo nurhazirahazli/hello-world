@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!!
+
+I'm zirah, I'm 19 years old and I belong from Johor
